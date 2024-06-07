@@ -238,17 +238,20 @@ def Delete_account():
         print(f"Account Number {account_number} Doesn't Exist")
 
 
-git
+
 def Check_value(inpt):
 
     #This is to check for value error and handle integer inputs
     #in Code
+    pass
+    """
     while True:
         try:
             inpt = int(input(":"))
 
         except ValueError as e:
             pass
+    """
 
 
 
